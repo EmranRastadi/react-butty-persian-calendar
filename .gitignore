@@ -2,8 +2,7 @@
 .DS_Store
 node_modules
 .cache
-/src
-/stories
-/.storybook
-/test
-dist
+src
+stories
+.storybook
+test
